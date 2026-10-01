@@ -1,6 +1,9 @@
 # 💫 About Me:
-I build cross-platform mobile applications and responsive websites, delivering complete solutions from modern frontend interfaces to secure backend APIs.
-
+I am a dedicated Web and Mobile App Developer with a strong focus on React Native and full-stack development.
+I have experience working with Machine Learning, AI/LLM integration, and developing real-world applications.
+My technical skills include JavaScript, Python, C++, Node.js, Express.js, ASP.NET Core, MongoDB, MySQL, and REST APIs.
+I have developed several full-stack websites and mobile applications, including booking systems, management systems, and AI-based applications.
+As a BS Information Technology student, I am passionate about learning new technologies and building practical solutions through real-world projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mominaaftab) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/mominaaftab/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mominaaftab0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aftabmoon336@gmail.com) 
